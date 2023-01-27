@@ -37,7 +37,7 @@ nav ul li a{
     font-weight: 700;
     text-transform: uppercase;
     border-bottom: 3px solid transparent;
-    transition: all 3s ease-in-out;
+    transition: all 1s ease-in-out;
 }
 
 nav ul li a:hover{
