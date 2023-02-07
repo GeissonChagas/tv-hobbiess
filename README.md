@@ -10,5 +10,14 @@
   
  ## Prints:
  
- 
-![Sem título](https://user-images.githubusercontent.com/115817581/214977343-94768238-5aec-49bb-8b38-aeedfc2df149.png)
+ ### Desktop:
+ ![Sem título](https://user-images.githubusercontent.com/115817581/217260523-9fd839e9-2498-4275-85c6-d02d06f106b9.png)
+
+
+  ### Mobile:
+![mobile](https://user-images.githubusercontent.com/115817581/217260574-7d0e337f-5d77-4c8b-bb36-69783a933956.png)
+
+## Vídeo:
+
+https://user-images.githubusercontent.com/115817581/217260338-ebfa23d7-fe51-477b-a454-5e1a8f188f0a.mp4
+
